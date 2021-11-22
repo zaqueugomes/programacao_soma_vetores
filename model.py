@@ -54,8 +54,8 @@ def soma_vetores():
     #então qualquer numero abaixo de 0.01 será considerado como 0.00 pelo programa,
     #ou seja, não vai possuir modulo resultante.
     if mr < 0.01:
-        print('A soma de todos os Vetores deu zero então')
-        print('nao possui Ângulo e sua cordenada é 0,0')
+        print('O vetor resultante é nulo!')
+        print()
 
     else:
 
